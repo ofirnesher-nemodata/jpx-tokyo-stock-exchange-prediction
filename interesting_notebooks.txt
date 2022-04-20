@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/pixyz0130/jpx-eda-trends
+https://www.kaggle.com/code/smeitoma/jpx-competition-metric-definition
+https://www.kaggle.com/code/chumajin/ver-easy-to-understand-the-competition
