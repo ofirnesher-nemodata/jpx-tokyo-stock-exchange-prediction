@@ -1,3 +1,7 @@
-https://www.kaggle.com/code/pixyz0130/jpx-eda-trends
+by organizer:
+https://www.kaggle.com/code/chumajin/english-ver-easy-to-understand-the-competition
 https://www.kaggle.com/code/smeitoma/jpx-competition-metric-definition
+
+by users:
+https://www.kaggle.com/code/pixyz0130/jpx-eda-trends
 https://www.kaggle.com/code/chumajin/ver-easy-to-understand-the-competition
