@@ -8,3 +8,4 @@
 - Project Design page (Notion) [here](https://www.notion.so/teamnemo/Kaggle-Task-7e43a9de25774bf1b74d649af39745a6)
 - Google Drive link for storing results and other related
   files [here](https://drive.google.com/drive/folders/1shFMEmWaRDgKMhBDFj4SX2Uy_FXwbGBP)
+- Monday board for tasks: [here](https://nemodata.monday.com/boards/2584838089)
