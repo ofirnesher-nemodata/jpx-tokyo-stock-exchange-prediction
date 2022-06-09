@@ -7,3 +7,6 @@ https://www.kaggle.com/code/pixyz0130/jpx-eda-trends
 https://www.kaggle.com/code/abaojiang/jpx-detailed-eda
 https://www.kaggle.com/code/riteshsinha/useful-features-in-predicting-stock-prices
 https://www.kaggle.com/code/metathesis/feature-engineering-training-with-ta
+
+how to submit:
+https://www.kaggle.com/code/parshivshah/making-your-first-submission
